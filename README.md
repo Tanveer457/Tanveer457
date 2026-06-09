@@ -4,7 +4,6 @@ I am an Artificial Intelligence undergraduate student concluding my B.Sc. in AI 
 
 My work focuses on the intersection of advanced Computer Vision architectures and real-world deployment on edge hardware. I am actively seeking fully funded Master's opportunities in Artificial Intelligence for the Fall 2026 intake.
 
----
 
 ## 🔬 Research Interests
 
@@ -12,7 +11,6 @@ My work focuses on the intersection of advanced Computer Vision architectures an
 *   **Edge Computing & Model Optimization:** Quantization, pruning, and deployment strategies to achieve high-frequency real-time inference (FPS) on resource-constrained hardware like the NVIDIA Jetson Nano.
 *   **Hybrid Deep Learning Architectures:** Exploring the balance between local feature extraction and global contextual awareness using hybrid CNN-Transformer and Swin Transformer designs.
 
----
 
 ## 🛠️ Key Projects & Engineering Experience
 
@@ -21,16 +19,12 @@ My work focuses on the intersection of advanced Computer Vision architectures an
 *   **Tech Stack:** YOLOv12n, PyTorch, Albumentations, NVIDIA Jetson Nano.
 *   **Highlights:** Curated and annotated a custom dataset of 5,000 images under complex ambient conditions. Optimized the model to maximize inference speed (FPS) on edge hardware without sacrificing critical mAP (Mean Average Precision) accuracy.
 
----
-
 ## 🧮 Academic Profile
 
 *   **Degree:** Bachelor of Science in Artificial Intelligence (B.Sc. AI)
 *   **Institution:** Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)
 *   **Current Standing:** CGPA: 3.68/4.00
 *   **Medium of Instruction:** 100% English (Official MOI Certificate available)
-
----
 
 ## 🔧 Core Tech Stack
 
