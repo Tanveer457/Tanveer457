@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👨‍💻 Tanveer Ahmad
+  # 👨‍💻 Tanveer Younas
   ### AI Researcher | Computer Vision & Edge AI Specialist
 
   
