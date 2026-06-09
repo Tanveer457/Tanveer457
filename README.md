@@ -7,7 +7,6 @@
   *B.Sc. Artificial Intelligence @ PAF-IAST (CGPA: 3.68/4.00) | Graduating July 2026*
 </div>
 
----
 
 ## ⚡ About Me
 
@@ -16,7 +15,6 @@ I am an AI researcher specializing in **Computer Vision**, **Hybrid Architecture
 *   **Research Focus:** Hybrid CNN-Transformer models, Swin Transformers, and custom architectural tuning for industrial environments.
 *   **Hardware Expertise:** Real-time inference optimization, quantization, and pruning for NVIDIA Jetson Nano edge deployments.
 
----
 
 ## 🛠️ Technical Arsenal
 
@@ -34,7 +32,6 @@ I am an AI researcher specializing in **Computer Vision**, **Hybrid Architecture
 
 </div>
 
----
 
 ## 🚀 Current Research & Projects
 
@@ -46,7 +43,7 @@ An end-to-end computer vision pipeline engineered to detect anomalies in complex
 > *   **Model Architecture:** Trained and fine-tuned **YOLOv12n** using advanced data augmentation strategies (via Albumentations) to prevent overfitting.
 > *   **Edge Optimization:** Deployed the inference pipeline to an **NVIDIA Jetson Nano**, maximizing Frames Per Second (FPS) while preserving critical Mean Average Precision (mAP) boundaries for life-safety applications.
 
----
+
 
 ## 📈 GitHub Analytics
 
@@ -61,7 +58,6 @@ An end-to-end computer vision pipeline engineered to detect anomalies in complex
 
 </div>
 
----
 
 <div align="center">
   <i>Seeking opportunities to push the boundaries of Computer Vision. Open to academic collaborations.</i>
