@@ -87,13 +87,13 @@ I am an **Artificial Intelligence Engineer** specializing in Computer Vision, Ma
 - **[FireGuard: Edge AI Safety System](https://github.com/Tanveer457/FireGuard)**
   <br> Engineered an end-to-end industrial fire & smoke detection system. Deployed a custom YOLOv26s model onto an **NVIDIA Jetson Nano** for real-time edge inference (leveraging INT8/FP16 quantization techniques), communicating via WebSockets to a robust **PySide6** / **FastAPI** desktop command center.
 
-- **[PixelPoet AI: Image Captioning](https://github.com/Tanveer457/Image-Caption-Generator)**
+- **[PixelPoet AI: Image Captioning](https://github.com/Tanveer457/PixelPoet-AI)**
   <br> Bridged Computer Vision and NLP by architecting a custom **CNN-LSTM** network. The pipeline extracts visual features via Convolutional layers and sequences natural language captions using LSTMs, wrapped in a high-performance **Streamlit** interface.
 
 - **[Multimodal Local RAG](https://github.com/Tanveer457/Multi_Rag_System)**
   <br> Built a privacy-first document and image Q&A engine. Orchestrated **LangChain**, **Ollama**, and **OpenSearch** to create a fully local Retrieval-Augmented Generation pipeline independent of cloud APIs.
 
-- **[MPI Video Downloader Pro](https://github.com/Tanveer457/Mpi_Video_downloader)**
+- **[MPI Video Downloader Pro](https://github.com/Tanveer457/Yt_Downloder-)**
   <br> Bypassed Python's Global Interpreter Lock (GIL) to build a hyper-fast distributed downloading engine. Utilized a Master-Worker parallel architecture via **mpi4py** point-to-point communication.
 
 ---
@@ -104,8 +104,6 @@ I am an **Artificial Intelligence Engineer** specializing in Computer Vision, Ma
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1500&color=4285F4&center=true&vCenter=true&width=800&height=60&lines=Vision-Language+Models+(VLMs);Generative+Diffusion+%26+GANs;Autonomous+AI+Agents" alt="Research Horizons" />
 </div>
 
-I am constantly pushing the boundaries of my own engineering capabilities. Currently, I am actively exploring:
-
-- **Vision-Language Models (VLMs):** Bridging advanced visual understanding with conversational AI.
-- **Generative Architectures & Diffusion:** Exploring diffusion-based models (for both text and image generation) and GANs to advance multimodal generative systems.
-- **Autonomous AI Agents:** Orchestrating complex, multi-step engineering tasks using advanced LLM reasoning and function calling.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&pause=2500&color=009688&center=true&vCenter=true&width=800&height=50&lines=Building+Production-Ready+AI+Systems;Bridging+Theory+%26+Real-World+Impact;Open+to+Innovative+Collaborations" alt="Philosophy" />
+</div>
