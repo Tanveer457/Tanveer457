@@ -10,7 +10,7 @@
 
 ## Profile
 
-I am an **Artificial Intelligence Engineer** specializing in Computer Vision, Machine Learning, and Deep Learning. My engineering philosophy revolves around building robust, highly optimized AI architectures that solve complex, real-world problems. Whether I am designing custom CNN-LSTM networks for multimodal processing, fine-tuning state-of-the-art object detectors, or deploying accelerated inference pipelines to edge hardware, I focus on algorithmic efficiency and scalable system design.
+I am an **Artificial Intelligence Student** specializing in Computer Vision, Machine Learning, and Deep Learning. My engineering philosophy revolves around building robust, highly optimized AI architectures that solve complex, real-world problems. Whether I am designing custom CNN-LSTM networks for multimodal processing, fine-tuning state-of-the-art object detectors, or deploying accelerated inference pipelines to edge hardware, I focus on algorithmic efficiency and scalable system design.
 
 **Core Technical Focus:**
 - **Computer Vision:** Advanced Image Classification, Real-time Object Detection, Semantic Segmentation, and Feature Extraction pipelines.
