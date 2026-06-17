@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=40&pause=1000&color=4285F4&center=true&vCenter=true&width=900&height=60&lines=Tanveer+Younas" alt="Tanveer Younas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=40&duration=1&pause=1000000&repeat=false&color=4285F4&center=true&vCenter=true&width=900&height=60&lines=Tanveer+Younas" alt="Tanveer Younas" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=4285F4&center=true&vCenter=true&width=900&height=60&lines=Artificial+Intelligence+Engineer;Computer+Vision+%7C+Machine+Learning+%7C+Deep+Learning;B.S.+Artificial+Intelligence+%40+PAF-IAST" alt="Animated Header" />
   <p align="center">
     <i>Architecting End-to-End Intelligence: From Algorithm Design to Edge Inference</i>
@@ -8,7 +8,7 @@
 
 <br/>
 
-## Engineering Profile
+## Profile
 
 I am an **Artificial Intelligence Engineer** specializing in Computer Vision, Machine Learning, and Deep Learning. My engineering philosophy revolves around building robust, highly optimized AI architectures that solve complex, real-world problems. Whether I am designing custom CNN-LSTM networks for multimodal processing, fine-tuning state-of-the-art object detectors, or deploying accelerated inference pipelines to edge hardware, I focus on algorithmic efficiency and scalable system design.
 
